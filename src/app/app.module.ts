@@ -9,6 +9,7 @@ import { AboutComponent } from './page/about/about.component';
 import { PortofolioComponent } from './page/portofolio/portofolio.component';
 import { ServiceComponent } from './page/service/service.component';
 import { NewsComponent } from './page/news/news.component';
+import { ContactComponent } from './page/contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -18,13 +19,11 @@ import { NewsComponent } from './page/news/news.component';
     AboutComponent,
     PortofolioComponent,
     ServiceComponent,
-    NewsComponent
+    NewsComponent,
+    ContactComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  imports: [BrowserModule, AppRoutingModule],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}

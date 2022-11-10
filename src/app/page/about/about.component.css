@@ -19,7 +19,7 @@ background-color:black;
 .hr2 {
     height:1px;
 background-color:black;
-    width: 120px;
+    width: 220px;
 
 }
 
@@ -38,5 +38,10 @@ background-color:black;
         width: 20px;
         height: 20px;
         border-radius: 100%;
-        border-color: black;
+       
+    }
+
+    .img{
+        width: 600px;
+        height: 700px;
     }
