@@ -1,0 +1,42 @@
+.bg-content{
+    background-color: #f6fbff;
+}
+
+.hr {
+  
+height:1px;
+background-color:black;
+    width: 690px;
+}
+
+.hr1 {
+    height:1px;
+background-color:black;
+    width: 200px;
+
+}
+
+.hr2 {
+    height:1px;
+background-color:black;
+    width: 120px;
+
+}
+
+.segitiga {
+    border-top: solid 6px transparent;
+    border-bottom: solid 6px transparent;
+    border-left: solid 8px #7d7789;
+    width: 0;
+    height: 0;
+  
+}
+
+
+    .style
+    {
+        width: 20px;
+        height: 20px;
+        border-radius: 100%;
+        border-color: black;
+    }
