@@ -4,11 +4,15 @@
 
 .hr {
   
-height:4px;
+height:1px;
 background-color:black;
-    width: 70px;
+    width: 690px;
 }
 .img{
     width: 600px;
     height: 700px;
+}
+.img3{
+    width: 60px;
+    height: 60px;
 }
